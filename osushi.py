@@ -1,0 +1,4 @@
+
+def sushi():
+    return 'おすし！'
+    
