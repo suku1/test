@@ -2,9 +2,10 @@
 test program
 '''
 
+import osushi
+
 def main():
-    print('おすしたべたい. ')
+    print(osushi.sushi())
 
 if __name__ == '__main__':
     main()
-    
